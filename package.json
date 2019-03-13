@@ -7,6 +7,10 @@
     "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git"
   },
   "adapt_authoring": {
-    "module": true
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "include": "lib/*"
+    }
   }
 }
