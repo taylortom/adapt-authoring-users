@@ -10,7 +10,10 @@
     ],
     "documentation": {
       "enable": true,
-      "include": "lib/*"
+      "includes": {
+        "source": "lib/*",
+        "docs": "docs/*"
+      }
     }
   },
   "dependencies": {
