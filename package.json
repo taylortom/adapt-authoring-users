@@ -1,7 +1,7 @@
 {
   "name": "adapt-authoring-users",
   "version": "0.0.1",
-  "description": "User management module for the Adapt authoring tool",
+  "description": "Module for managing users",
   "homepage": "https://github.com/taylortom/adapt-authoring-users",
   "main": "index.js",
   "adapt_authoring": {
